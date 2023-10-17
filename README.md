@@ -62,3 +62,25 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/yourusername/multiple-disease-prediction.git
+## Usage
+
+1. Open the web link to the application on your phone or PC.
+
+2. Fill in the requested details, such as patient symptoms and medical history.
+
+3. Select the disease you want to predict (heart disease, diabetes, or Parkinson's).
+
+4. Click "Predict" to receive predictions for the selected disease.
+
+5. Review the results and accompanying information.
+## Acknowledgments
+
+We'd like to acknowledge and express our gratitude to the following libraries and algorithms that significantly contributed to the "Multiple Disease Prediction" project:
+
+- **NumPy**: NumPy is the fundamental package for scientific computing with Python and played a crucial role in data handling and analysis.
+
+- **Pandas**: Pandas, an open-source data analysis and manipulation library, was instrumental in data preprocessing and structuring.
+
+- **scikit-learn**: Scikit-learn provided powerful machine learning tools, including the **Logistic Regression** and **Support Vector Classification (SVC)** algorithms, for accurate disease prediction.
+
+These libraries and algorithms have been essential in building a robust and accurate prediction model for the "Multiple Disease Prediction" project.
